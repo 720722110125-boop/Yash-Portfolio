@@ -17,11 +17,11 @@ function Header() {
         }
     };
 
-<<<<<<< HEAD
+// <<<<<<< HEAD
     // const handleDownload = ()=> {
-=======
+
     // const handleDownload = () => {
->>>>>>> 0f8f3127 (Fixed CV download issue and updated Header component)
+// >>>>>>> 0f8f3127 (Fixed CV download issue and updated Header component)
     //     const pdf = "/Yashwanth_Resume.pdf"
     //     const link = document.createElement("a");
     //     link.href = pdf;
