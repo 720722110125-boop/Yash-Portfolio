@@ -23,7 +23,16 @@ function Skills() {
                             </div>
                         </div>
                     </div>
-
+                    <div className="col">
+                        <div className="p-3 p-lg-4 rounded-4 unique-Skill">
+                            <h2 className='p-2'>Certificates</h2>
+                            <div className="row row-cols-1 text-center">
+                                <div className="col p-2">NPTEL - Cloud Computing</div>
+                                <div className="col p-2">NPTEL - Large </div>
+                                <div className="col p-2">Motion Cut - Web Development</div>
+                            </div>
+                        </div>
+                    </div>
                     <div className="col">
                         <div className="p-3 p-lg-4 rounded-4 unique-Skill">
                             <h2 className='p-2'>Course Work</h2>
@@ -41,16 +50,6 @@ function Skills() {
                             <div className="row row-cols-1 text-center">
                                 <div className="col p-2">JavaScript</div>
                                 <div className="col p-2">Python</div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div className="col">
-                        <div className="p-3 p-lg-4 rounded-4 unique-Skill">
-                            <h2 className='p-2'>Certificates</h2>
-                            <div className="row row-cols-1 text-center">
-                                <div className="col p-2">NPTEL - Cloud Computing</div>
-                                <div className="col p-2">Motion Cut - Web Development</div>
                             </div>
                         </div>
                     </div>
