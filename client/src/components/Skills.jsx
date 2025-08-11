@@ -29,7 +29,6 @@ function Skills() {
                             <h2 className='p-2'>Course Work</h2>
                             <div className="row row-cols-1 text-center">
                                 <div className="col p-2">Data Structures and Algorithms (DSA)</div>
-                                <div className="col p-2">Web Technology</div>
                                 <div className="col p-2">Cloud Computing</div>
                             </div>
                         </div>
